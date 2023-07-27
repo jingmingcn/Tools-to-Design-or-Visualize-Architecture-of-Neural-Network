@@ -1,6 +1,17 @@
+- [Tools to Visualize Architecture of Transformer and Attention](#Tools-to-Visualize-Architecture-of-Transformer-and-Attention)
+  * [BertViz](#BertViz)
+- [Tools to Design or Visualize Architecture of Neural Network](#Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+  * [Net2Vis](#Net2Vis)
+
+<!-- toc -->
+
+## Tools to Visualize Architecture of Transformer and Attention
+### 1. [**BertViz**](https://github.com/jessevig/bertviz): Visualize Attention in NLP Models (BERT, GPT2, BART, etc.)
+
+
 ## Tools to Design or Visualize Architecture of Neural Network
 
-1. [**Net2Vis**](https://viscom.net2vis.uni-ulm.de/OG1Br2BAkYSwwrV6CADl4X5EfErFjUzvuUwXWDdLbdsIXNhb9L): Net2Vis automatically generates abstract visualizations for convolutional neural networks from Keras code.
+### 1. [**Net2Vis**](https://viscom.net2vis.uni-ulm.de/OG1Br2BAkYSwwrV6CADl4X5EfErFjUzvuUwXWDdLbdsIXNhb9L): Net2Vis automatically generates abstract visualizations for convolutional neural networks from Keras code.
 
 ![](https://storage.googleapis.com/groundai-web-prod/media/users/user_299833/project_401171/images/application.png)
 
