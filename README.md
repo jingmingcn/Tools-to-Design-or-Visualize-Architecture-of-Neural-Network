@@ -1,5 +1,6 @@
 - [Tools to Visualize Architecture of Transformer and Attention](#Tools-to-Visualize-Architecture-of-Transformer-and-Attention)
   * [BertViz](#BertViz)
+  * [AttentionViz](#AttentionViz)
 - [Tools to Design or Visualize Architecture of Neural Network](#Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
   * [Net2Vis](#Net2Vis)
 
