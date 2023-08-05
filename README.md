@@ -257,6 +257,16 @@ Neataptic offers flexible neural networks; neurons and synapses can be removed w
 
  ![gzqll3](https://cloud.githubusercontent.com/assets/5866348/20253975/f3d56f14-a9e4-11e6-9693-9873a18df5d3.gif) 
 
+ 24. [**Zetane**](https://github.com/zetane/viewer)
+
+ 25. [**tensorspace.js**](https://tensorspace.org/)
+     
+ 26. [**nn_vis**](https://github.com/julrog/nn_vis)
+
+ 27. [**ProcessON**](https://www.processon.com/)
+
+
+
 **References :**  
 
 1)  https://datascience.stackexchange.com/questions/12851/how-do-you-visualize-neural-network-architectures 
